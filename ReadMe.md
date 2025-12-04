@@ -1,3 +1,5 @@
-These are probably buggy ports of deltarune chapters 1-4.
+# READ
+## I was in no way given permission to use these assets so dmca it i guess
 
-If there are any bugs, crashes or anything dont make a issue, i probably wont see it. Instead join my [discord](https://discord.gg/8s8CZA9kHS) and tell me there.
+
+### i might remove the audio later just so it cant get taken down
