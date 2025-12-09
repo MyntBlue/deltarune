@@ -5,7 +5,7 @@
 
 
 ## Fixes
-#### 12/08/25 - fixed chapter 1 being stretched vertically - GaleDaUmbreon
+#### None so far
 
 
 ### To do
