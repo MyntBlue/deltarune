@@ -4,8 +4,15 @@
  If you want it to be taken down dm me on discord (@myntblue)
 
 
-### Fixes
+## Fixes
 12/08/25 - fixed chapter 1 being stretched vertically - GaleDaUmbreon
+
+
+### To do
+Fix all chapters stretch res
+Fix random crashes
+Maybe remove music so no DMCA
+add chapter 7 real
 
 
 
