@@ -9,10 +9,10 @@
 
 
 ### To do
-Fix all chapters stretch res
-Fix random crashes
-Maybe remove music so no DMCA
-add chapter 7 real
+#### Fix all chapters stretch res
+#### Fix random crashes
+#### Maybe remove music so no DMCA
+#### add chapter 7 real
 
 
 
