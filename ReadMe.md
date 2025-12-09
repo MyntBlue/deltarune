@@ -1,7 +1,7 @@
 # READ
-### I was in no way given permission to use these assets so dmca it i guess
+### I was in no way given permission to use these assets or this archive
 
- i might remove the audio later just so it cant get taken down
+ If you want it to be taken down dm me on discord (@myntblue)
 
 
 ### Fixes
