@@ -17,5 +17,5 @@
 
 
 ## Credits
-Aukak/Bog - Archive
-Bread/Gn-Math - Original port
+### Aukak/Bog - Archive
+### Bread/Gn-Math - Original port
